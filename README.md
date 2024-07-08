@@ -10,6 +10,7 @@ The dataset used in this project includes information on debtor actions, payment
 ## Contents
 
 - **Notebooks:**
+  - `data.ipynb`: Jupyter Notebook for data generation, for experimentation 
   - `debtor_data_analysis.ipynb`: Jupyter Notebook for data analysis, visualization, and insights.
   - `linear_regression.ipynb`: Jupyter Notebook demonstrating a linear regression model for predicting payment amounts.
   - `logistic_regression.ipynb`: Jupyter Notebook demonstrating a logistic regression model for predicting payment confirmations.
